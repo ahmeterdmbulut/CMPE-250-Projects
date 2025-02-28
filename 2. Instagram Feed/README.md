@@ -1,6 +1,6 @@
 # Instagram Feed Manager
 
-This project is a simulation of an Instagram Feed Manager, developed as part of the CmpE 250 Data Structures and Algorithms course at Fall 2025. The application is designed to handle user creation, post management, user interactions, and dynamic feed generation, mimicking the core functionalities of Instagram's early feed management system.
+This project is a simulation of an Instagram Feed Manager, developed as part of the CmpE 250 Data Structures and Algorithms course. The application is designed to handle user creation, post management, user interactions, and dynamic feed generation, mimicking the core functionalities of Instagram's early feed management system.
 
 ## Features
 
