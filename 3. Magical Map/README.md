@@ -1,6 +1,6 @@
 # Magical Map
 
-This project is a simulation of the "Magical Map" game, developed as part of the CmpE 250 Data Structures and Algorithms course in Fall 2025. The application simulates navigating through a magical land using an enchanted map, solving objectives while encountering hidden surprises and challenges designed by the wizard Oz.
+This project is a simulation of the "Magical Map" game, developed as part of the CmpE 250 Data Structures and Algorithms course in. The application simulates navigating through a magical land using an enchanted map, solving objectives while encountering hidden surprises and challenges designed by the wizard Oz.
 
 ## Features
 
