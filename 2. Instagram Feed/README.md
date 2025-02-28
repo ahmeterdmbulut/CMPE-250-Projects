@@ -41,3 +41,10 @@ user1 created a post with Id post1.
 user1 followed user2.
 user1 saw post1.
 ```
+## Code Structure
+
+- **Main.java:** Handles input parsing, command execution, and output logging.
+- **MyHashMap.java:** Custom HashMap implementation for fast key-value storage and retrieval.
+- **MyPriorityQueue.java:** Custom Priority Queue implemented using a max-heap for sorting posts.
+- **Post.java:** Represents a post with ID, content, author, likes, and views.
+- **User.java:** Represents a user with ID, followers, following, posts, and seen posts.
